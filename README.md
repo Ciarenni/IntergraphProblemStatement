@@ -1,5 +1,5 @@
 # IntergraphProblemStatement
-Problem statement given to me during an interview.
+Problem statement given to me during an interview in 2012.
 
 The problem statement, to the best of my recollection, was to take a set of name data and group them by their patterns. A pattern was defined as being a sequence of characters that were a letter, a number, or another character. The data I was given is below:
 
